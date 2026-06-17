@@ -467,8 +467,4 @@ dotnet ef migrations script --project src/Healthcare.Infrastructure --startup-pr
 * Patient details page
 * Loading and error states
 
----
 
-## Notes
-
-This project was built as a mini assignment and is configured for local development.
